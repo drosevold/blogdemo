@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_81147_blogdemo.articles_user" name="x_81147_blogdemo.articles_user">bb321526db433300d10158b3ca9619a3</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-06 18:19:49</sys_created_on>
+        <sys_id>7b321526db433300d10158b3ca9619a6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>bb321526db433300d10158b3ca9619a3</sys_name>
+        <sys_package display_value="BlogDemo" source="x_81147_blogdemo">4b02dd22db433300d10158b3ca961947</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BlogDemo">4b02dd22db433300d10158b3ca961947</sys_scope>
+        <sys_update_name>sys_embedded_help_role_7b321526db433300d10158b3ca9619a6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-06 18:19:49</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
